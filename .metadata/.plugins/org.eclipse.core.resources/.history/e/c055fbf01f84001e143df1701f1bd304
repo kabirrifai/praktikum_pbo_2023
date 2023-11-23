@@ -1,0 +1,13 @@
+package Tugas1;
+
+public class Tugas1 {
+	public int angka1;
+	public int angka2;
+	
+	public int getAngka1() {
+		return angka1;
+		
+	}
+	
+
+}
